@@ -230,10 +230,4 @@ letter-spacing: 8px;
     /* If this selector worked, it would show the dropdown content on hover over the header */  
   }  
     
-  /* Styles for the element with ID 'bb' */  
-  #bb{  
-    position: absolute;  
-    top:350px;  
-    right:150px;  
-    /* Positions the element absolutely with a top offset of 350px and a right offset of 150px */  
-  }
+  
